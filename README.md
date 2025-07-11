@@ -1,6 +1,6 @@
 # Kaanhehe
 
-👋 Hey there! I'm a 17-year-old student from Germany passionate about coding and game scripting. I enjoy working with technologies like Python, C#, Dart/Flutter, Lua, HTML, CSS, and JavaScript.
+👋 Hey there! I'm a 17-year-old student from Germany passionate about coding and game scripting. I enjoy working with technologies like Python, Dart/Flutter, Lua, HTML, CSS, JavaScript and TypeScript.
 
 🚀 I've spent a lot of time creating mods and custom solutions for FiveM, diving deep into its framework and game mechanics. I'm always eager to learn, build, and collaborate on exciting projects.
 
