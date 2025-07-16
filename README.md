@@ -35,7 +35,7 @@ Feel free to check out my work or get in touch!
 
 ### 📊 Stats
 
-![ktox-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktox-dev&show_icons=true&theme=gruvbox)
+![ktox-dev's Stats](https://github-readme-stats.vercel.app/api?username=ktox-dev&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
 #
 
