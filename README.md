@@ -1,4 +1,4 @@
-# Kaanhehe
+# Ktox - Kaan
 
 👋 Hey there! I'm a 17-year-old student from Germany passionate about coding and game scripting. I enjoy working with programming languages like Python, Dart/Flutter, Lua, HTML, CSS, JavaScript and TypeScript.
 
@@ -35,7 +35,7 @@ Feel free to check out my work or get in touch!
 
 ### 📊 Stats
 
-![Kaanhehe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaanhehe&show_icons=true&theme=gruvbox)
+![ktox-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktox-dev&show_icons=true&theme=gruvbox)
 
 #
 
