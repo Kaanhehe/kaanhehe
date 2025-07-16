@@ -40,5 +40,5 @@ Feel free to check out my work or get in touch!
 #
 
 ### 👤 Contact Me
-- 📨 Email: contact@kaanhehe.dev
-- 💬 Discord: kaanhehe
+- 📨 Email: contact@ktox.dev
+- 💬 Discord: ktox.dev
